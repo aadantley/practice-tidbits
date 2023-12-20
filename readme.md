@@ -2,7 +2,12 @@
 
 This repository contains small coding projects from demos and videos that I created for learning purposes.
 
-These Projects include:
+This will include projects in `python` and `javascript`. Whenever possible or recommended, the projects will include:
+
+- **type safety**: typescript in JavaScript, with the `typing` in python
+- **unit tests**: a test suite will be provided and included, and development will follow a test driven development cycle, with use-cases provided in a file.
+
+These projects include:
 
 ---
 
