@@ -1,4 +1,13 @@
-# List of FizzBuzz Function Use Cases
+# fizzBuzz
+
+a function that passes the following use cases.
+
+to run:
+
+- `pipenv shell`
+- `python -m pytest fizzbuzztest.py`
+
+## List of FizzBuzz Function Use Cases
 
 - Can I call the function `FizzBuzz`
 - Get `1` when I pass in `1`.

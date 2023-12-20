@@ -1,3 +1,8 @@
+"""
+Test Suite for fizzBuzz function
+"""
+
+
 import pytest
 from main import fizzBuzz
 
@@ -29,6 +34,7 @@ def test_returnsFizzWith6PassedIn():
 
 def test_returnsBuzzWith10PassedIn():
     CheckFizzBuzz(10, "Buzz")
+
 
 def test_returnsFizzBuzzWith15PassedIn():
     CheckFizzBuzz(15, "FizzBuzz")

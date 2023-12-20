@@ -1,12 +1,9 @@
 """
 fizzBuzz: 
 
-example function with updates as we go through the TDD cycles. This file will have the end result code, but the notes will have the steps about how we got there.
-
+function with updates based on the TDD cycles. 
 """
 import typing
-
-# because the if statements are repeated, we made a utility function called is Multiple to separate out this logic:
 
 
 def isMultiple(value: int, mod: int):
